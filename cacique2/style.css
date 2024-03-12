@@ -1,0 +1,15 @@
+body{
+    background-color: cadetblue;
+}
+.style {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+form {
+    margin-bottom: 20px;
+}
+button {
+    padding: 10px 20px;
+    
+}
